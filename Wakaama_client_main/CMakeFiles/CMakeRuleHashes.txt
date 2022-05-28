@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+5a9311093217364921eaac089fe893d8 wakaama/examples/shared/tinydtls/tinydtls.h

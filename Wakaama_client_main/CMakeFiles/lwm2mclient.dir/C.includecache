@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yin/Wakaama_client/wakaama/examples/client/lwm2mclient.h
+liblwm2m.h
+/home/yin/Wakaama_client/wakaama/examples/client/liblwm2m.h
+
+/home/yin/Wakaama_client/wakaama/examples/client/object_water_meter.c
+liblwm2m.h
+/home/yin/Wakaama_client/wakaama/examples/client/liblwm2m.h
+lwm2mclient.h
+/home/yin/Wakaama_client/wakaama/examples/client/lwm2mclient.h
+ctype.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+wakaama/include/liblwm2m.h
+stdint.h
+-
+stddef.h
+-
+stdbool.h
+-
+time.h
+-
+

@@ -1,0 +1,3 @@
+/home/yin/Wakaama_client/CMakeFiles/rebuild_cache.dir
+/home/yin/Wakaama_client/CMakeFiles/edit_cache.dir
+/home/yin/Wakaama_client/CMakeFiles/lwm2mclient.dir
